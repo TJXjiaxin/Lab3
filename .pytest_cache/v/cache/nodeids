@@ -4,5 +4,7 @@
   "test_Lab3.py::test_bubble_sort_invalid",
   "test_bmi.py::test_bmi_normal_weight",
   "test_bmi.py::test_bmi_over_weight",
-  "test_bmi.py::test_bmi_under_weight"
+  "test_bmi.py::test_bmi_under_weight",
+  "test_price_info.py::test_cost_of_fruits",
+  "test_price_info.py::test_total_cost_shopping"
 ]
